@@ -11,3 +11,4 @@ Cache
 ---
 - [guava cache](https://github.com/google/guava/wiki/CachesExplained)
 - [caffeine](https://github.com/ben-manes/caffeine)
+- [spring cache](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/cache.html#cache-store-configuration-caffeine)
