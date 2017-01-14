@@ -1,3 +1,4 @@
 - [RxJava](https://github.com/loganfreeman/RxJava)
 - [java design patterns](https://github.com/loganfreeman/java-design-patterns)
 - [guava](https://github.com/google/guava)
+- [awesome java8](https://github.com/tedyoung/awesome-java8)
