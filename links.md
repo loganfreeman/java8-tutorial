@@ -16,3 +16,7 @@ Cache
 Functional
 ---
 - [javaslang](http://www.javaslang.io/javaslang-docs/)
+
+CircuitBreaker
+---
+- [CircuitBreaker](https://martinfowler.com/bliki/CircuitBreaker.html)
