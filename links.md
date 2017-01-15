@@ -20,3 +20,4 @@ Functional
 CircuitBreaker
 ---
 - [CircuitBreaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+- [javaslang-circuitbreaker](https://github.com/RobWin/javaslang-circuitbreaker)
