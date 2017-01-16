@@ -25,3 +25,7 @@ CircuitBreaker
 Fault Tolerance
 ---
 - [Hystrix](https://github.com/Netflix/Hystrix)
+
+Configuration
+---
+- [archaius](https://github.com/Netflix/archaius/wiki/Features)
