@@ -17,15 +17,16 @@ Functional
 ---
 - [javaslang](http://www.javaslang.io/javaslang-docs/)
 
-CircuitBreaker
----
-- [CircuitBreaker](https://martinfowler.com/bliki/CircuitBreaker.html)
-- [javaslang-circuitbreaker](https://github.com/RobWin/javaslang-circuitbreaker)
-
 Fault Tolerance
 ---
 - [Hystrix](https://github.com/Netflix/Hystrix)
+- [CircuitBreaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+- [javaslang-circuitbreaker](https://github.com/RobWin/javaslang-circuitbreaker)
 
 Configuration
 ---
 - [archaius](https://github.com/Netflix/archaius/wiki/Features)
+
+Cluster
+---
+- [aurora](http://aurora.apache.org/documentation/latest/)
