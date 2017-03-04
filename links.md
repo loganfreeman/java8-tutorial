@@ -30,3 +30,8 @@ Configuration
 Cluster
 ---
 - [aurora](http://aurora.apache.org/documentation/latest/)
+
+
+XML
+---
+- [XStream](http://x-stream.github.io/tutorial.html)
