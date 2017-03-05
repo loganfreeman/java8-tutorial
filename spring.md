@@ -1,4 +1,5 @@
 Awesome
+---
 - [spring projects](https://github.com/spring-projects)
 
 Architecture
@@ -17,3 +18,7 @@ Configuration
 ServletContext
 ---
 - [ServletContextListener Example](https://www.mkyong.com/servlet/what-is-listener-servletcontextlistener-example/)
+
+Bean lifecycle
+---
+- [InitializingBean and DisposableBean](https://www.mkyong.com/spring/spring-initializingbean-and-disposablebean-example/)
