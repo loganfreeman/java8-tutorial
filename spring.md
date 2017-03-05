@@ -13,3 +13,7 @@ Configuration
 ---
 - [spring boot external configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
 - [unified-property-management](https://spring.io/blog/2011/02/15/spring-3-1-m1-unified-property-management/)
+
+ServletContext
+---
+- [ServletContextListener Example](https://www.mkyong.com/servlet/what-is-listener-servletcontextlistener-example/)
