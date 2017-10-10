@@ -22,3 +22,8 @@ ServletContext
 Bean lifecycle
 ---
 - [InitializingBean and DisposableBean](https://www.mkyong.com/spring/spring-initializingbean-and-disposablebean-example/)
+
+Apps
+---
+# Blog
+- [spring boot + thymeleaf 开发的个人博客系统](https://github.com/eumji025/EumJi-blog)
