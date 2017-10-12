@@ -30,3 +30,6 @@ Apps
 - [基于Springmvc+MyBatis+Spring+Bootstrap+EasyUI+Mysql的个人博客系统项目源码](https://github.com/eson15/Blog.git)
 - [newblog](https://github.com/Zephery/newblog)
 - [jblog](https://github.com/kingschan1204/jblog)
+
+#### Spring boot
+- [Lolipa](https://github.com/volio/Lolipa)
