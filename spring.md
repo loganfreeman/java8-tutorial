@@ -33,3 +33,4 @@ Apps
 
 #### Spring boot
 - [Lolipa](https://github.com/volio/Lolipa)
+- [SpringBoot-vue](https://github.com/boylegu/SpringBoot-vue.git)
