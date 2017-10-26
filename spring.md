@@ -1,6 +1,9 @@
 Awesome
 ---
 - [spring projects](https://github.com/spring-projects)
+- [awesome-spring-boot](https://github.com/stunstunstun/awesome-spring-boot)
+- [awesome-spring-boot](https://github.com/CFshuming/awesome-spring-boot)
+- [SpringBootForBeginners](https://github.com/in28minutes/SpringBootForBeginners)
 
 Architecture
 ---
