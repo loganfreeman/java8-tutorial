@@ -1,0 +1,2 @@
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
