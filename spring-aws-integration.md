@@ -1,0 +1,2 @@
+- [spring-cloud-aws](https://github.com/spring-cloud/spring-cloud-aws)
+- [spring-integration-aws](https://github.com/spring-projects/spring-integration-aws)
