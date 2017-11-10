@@ -1,2 +1,3 @@
 - [build-tool-plugins](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-gradle-plugin.html)
 - [deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk](https://aws.amazon.com/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/)
+- [Creating and Deploying Java Applications on AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Java.html)
