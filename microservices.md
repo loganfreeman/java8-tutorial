@@ -1,2 +1,3 @@
 - [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/)
 - [Service Registration and Discovery](https://spring.io/guides/gs/service-registration-and-discovery/)
+- [Centralized Configuration](https://spring.io/guides/gs/centralized-configuration/)
