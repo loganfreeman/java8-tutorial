@@ -1,0 +1,3 @@
+- [powermock](https://github.com/powermock/powermock/wiki/Getting-Started)
+- [mockito](https://github.com/mockito/mockito)
+- [assertj](http://joel-costigliola.github.io/assertj/)
