@@ -23,3 +23,7 @@ General
 Spring Cloud
 ---
 - [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)
+
+Scope
+---
+- [Refresh Scope in Spring Cloud](https://andressanchezblog.wordpress.com/2016/09/15/refresh-scope-in-spring-cloud/)
