@@ -10,6 +10,7 @@ Properties
 ---
 - [PropertiesLoaderSupport](http://codenav.org/code.html?project=/org/springframework/spring-core/1.2.2&path=/Source%20Packages/org.springframework.core.io.support/PropertiesLoaderSupport.java)
 - [PropertiesFactoryBean](https://github.com/spring-projects/spring-framework/blob/master/spring-beans/src/main/java/org/springframework/beans/factory/config/PropertiesFactoryBean.java)
+- [SystemPropertyResolver](https://github.com/jboss/metadata/blob/master/common/src/main/java/org/jboss/metadata/property/SystemPropertyResolver.java)
 
 Configuration
 ---
