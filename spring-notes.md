@@ -27,3 +27,9 @@ Spring Cloud
 Scope
 ---
 - [Refresh Scope in Spring Cloud](https://andressanchezblog.wordpress.com/2016/09/15/refresh-scope-in-spring-cloud/)
+
+Links
+---
+- [spring-notes](https://github.com/dunwu/spring-notes)
+- [spring-framework-issues](https://github.com/spring-projects/spring-framework-issues)
+- [spring2017-notes](https://github.com/susanBuck/dwa15-spring2017-notes)
