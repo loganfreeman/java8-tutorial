@@ -1,1 +1,2 @@
 - [spring-cloud-example](https://github.com/ThoreauZZ/spring-cloud-example)
+- [spring-cloud-netflix-example](https://github.com/yidongnan/spring-cloud-netflix-example)
