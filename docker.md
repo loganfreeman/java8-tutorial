@@ -1,2 +1,3 @@
 - [spring-cloud-example](https://github.com/ThoreauZZ/spring-cloud-example)
 - [spring-cloud-netflix-example](https://github.com/yidongnan/spring-cloud-netflix-example)
+- [基于Spring Cloud Netflix的TCC柔性事务和EDA事件驱动示例](https://github.com/prontera/spring-cloud-rest-tcc)
