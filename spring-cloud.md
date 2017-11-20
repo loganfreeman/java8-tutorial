@@ -1,1 +1,2 @@
 - [Spring Cloud AWS](http://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html)
+- [spring-rest-with-zuul-proxy](http://www.baeldung.com/spring-rest-with-zuul-proxy)
