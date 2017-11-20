@@ -2,3 +2,4 @@
 - [deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk](https://aws.amazon.com/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/)
 - [Creating and Deploying Java Applications on AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Java.html)
 - [step-by-step-guide-to-building-and-deploying-a-database-backed-spring-boot-web-application-in-aws](http://carlmartensen.com/step-by-step-guide-to-building-and-deploying-a-database-backed-spring-boot-web-application-in-aws)
+- [Guide to @ConfigurationProperties in Spring Boot](http://www.baeldung.com/configuration-properties-in-spring-boot)
